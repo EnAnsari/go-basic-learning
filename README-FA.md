@@ -1,6 +1,6 @@
 <h1>کدهای دوره آموزش پایه <a href='https://github.com/golang'>گولنگ</a></h1>  
 
-[![fa](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/go-basic-learning/blob/main/docs/README.md)
+[![fa](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/go-basic-learning/)
 [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EnAnsari/go-basic-learning/blob/main/LICENSE)
 <br>
 در این ریپوزیتوری میتوانید کدهایی که من در طول دوره
