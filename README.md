@@ -1,4 +1,4 @@
-<h1><a href='https://github.com/golang'>Go</a>basic learning codes</h1>  
+<h1><a href='https://github.com/golang'>Golang</a> basic learning</h1>  
 
 [![fa](https://img.shields.io/badge/click_to_README-Persain-red.svg)](https://github.com/EnAnsari/go-basic-learning/blob/main/docs/README-FA.md)
 [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EnAnsari/go-basic-learning/blob/main/LICENSE)
